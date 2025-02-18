@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="relative h-screen">
         <div className="absolute inset-0">
           <img
-            src="/src/components/sky-1283446_1280.jpg"
+            src="/src/components/sky-1283446_1280.PNG"
             alt="Beautiful sky background"
             className="w-full h-full object-cover"
           />
